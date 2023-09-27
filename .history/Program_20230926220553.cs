@@ -43,7 +43,7 @@ static void Minutes (int minutes, int seconds, string currentTime, int time) {
 }
 
 static void Seconds (int minutes, int seconds,string currentTime, int time) {
-  while (seconds != 59) {
+  while (seconds != 3) {
       Console.Clear();
       seconds++;
       currentTime = $"{minutes}.{seconds}" ; 

@@ -16,10 +16,7 @@ static void Start (int currentMinutes, int time) {
   var seconds = 0;
   var minutes = currentMinutes;
 
-  switch (time) {
-    case 0: Console.WriteLine("OK!"); break;
-    default: Seconds(minutes, seconds, currentTime, time); break;
-  }
+    Seconds(minutes, seconds, currentTime, time);
 }
 
 static void Minutes (int minutes, int seconds, string currentTime, int time) {
@@ -35,7 +32,7 @@ static void Minutes (int minutes, int seconds, string currentTime, int time) {
     if (minutes == time) {
       Console.WriteLine("Finish!");
       Thread.Sleep(2500);
-      Menu();
+      Men
     } else {
       Seconds(minutes, seconds, currentTime, time);
     }
