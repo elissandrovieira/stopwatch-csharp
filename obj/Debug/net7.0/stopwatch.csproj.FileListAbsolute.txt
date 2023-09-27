@@ -1,0 +1,14 @@
+D:\Libraries\dev\Baltaio\stopwatch\bin\Debug\net7.0\stopwatch.exe
+D:\Libraries\dev\Baltaio\stopwatch\bin\Debug\net7.0\stopwatch.deps.json
+D:\Libraries\dev\Baltaio\stopwatch\bin\Debug\net7.0\stopwatch.runtimeconfig.json
+D:\Libraries\dev\Baltaio\stopwatch\bin\Debug\net7.0\stopwatch.dll
+D:\Libraries\dev\Baltaio\stopwatch\bin\Debug\net7.0\stopwatch.pdb
+D:\Libraries\dev\Baltaio\stopwatch\obj\Debug\net7.0\stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Libraries\dev\Baltaio\stopwatch\obj\Debug\net7.0\stopwatch.AssemblyInfoInputs.cache
+D:\Libraries\dev\Baltaio\stopwatch\obj\Debug\net7.0\stopwatch.AssemblyInfo.cs
+D:\Libraries\dev\Baltaio\stopwatch\obj\Debug\net7.0\stopwatch.csproj.CoreCompileInputs.cache
+D:\Libraries\dev\Baltaio\stopwatch\obj\Debug\net7.0\stopwatch.dll
+D:\Libraries\dev\Baltaio\stopwatch\obj\Debug\net7.0\refint\stopwatch.dll
+D:\Libraries\dev\Baltaio\stopwatch\obj\Debug\net7.0\stopwatch.pdb
+D:\Libraries\dev\Baltaio\stopwatch\obj\Debug\net7.0\stopwatch.genruntimeconfig.cache
+D:\Libraries\dev\Baltaio\stopwatch\obj\Debug\net7.0\ref\stopwatch.dll
