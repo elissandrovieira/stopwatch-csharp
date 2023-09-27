@@ -5,8 +5,8 @@ Menu();
 static void Menu () {
   Console.Clear();
   Console.WriteLine("How many minutes you want?");
-  Console.WriteLine("S - seconds | 1 second = 1s");
-  Console.WriteLine("M - minutes | 1 minute = 1m");
+  Console.WriteLine("S - seconds");
+  Console.WriteLine("M - minutes");
   Console.WriteLine("0 - Exit");
   Console.WriteLine("-------------------------------------------");
   
@@ -30,7 +30,7 @@ static void Seconds (int minutes, int seconds,string currentTime, string data) {
   var timeOut = 58;
   var isMinutes = true;
   
-  if (type == 's' && time >= 60) {
+  if (type == 's' && time >= 60) 
     time = int.Parse(data.Substring(0, data.Length - 1)) / 60;
   } else if (type == 'm') {
     time = int.Parse(data.Substring(0, data.Length - 1));

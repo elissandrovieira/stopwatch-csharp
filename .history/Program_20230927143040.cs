@@ -5,8 +5,8 @@ Menu();
 static void Menu () {
   Console.Clear();
   Console.WriteLine("How many minutes you want?");
-  Console.WriteLine("S - seconds | 1 second = 1s");
-  Console.WriteLine("M - minutes | 1 minute = 1m");
+  Console.WriteLine("S - seconds | 1 second = ");
+  Console.WriteLine("M - minutes");
   Console.WriteLine("0 - Exit");
   Console.WriteLine("-------------------------------------------");
   
